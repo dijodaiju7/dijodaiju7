@@ -22,5 +22,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijodaiju7&hide=jupyter+notebook&layout=compact&theme=radical" />
 </a>
 <br><br>
-<p align="center"><img src="https://github.com/dijodaiju7/dijodaiju7/blob/main/github-metrics.svg">
   
