@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/dijodaiju7/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dijodaiju7&show_icons=true&count_private=true&hide=stars&theme=radical" />
-</a><br>
+</a><br><br>
 <a href="https://github.com/dijodaiju7/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijodaiju7&hide=jupyter+notebook&layout=compact&theme=radical" />
 </a>
+<br><br>
+<p align="center"><img src="https://github.com/dijodaiju7/dijodaiju7/blob/main/github-metrics.svg">
+  
