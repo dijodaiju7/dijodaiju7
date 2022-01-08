@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijodaiju7&hide=jupyter+notebook&layout=compact&theme=radical" />
 </a>
 <br><br>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=dijodaiju7)](https://github.com/dijodaiju7/github-profile-trophy)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dijodaiju7&theme=nord" alt="dijodaiju7" /></a> </p>
