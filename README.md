@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/dijodaiju7/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dijodaiju7&show_icons=true&count_private=true&hide=stars&theme=radical" />
+ <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dijodaiju7&show_icons=true&count_private=true&hide=stars&theme=radical" />
 </a><br><br>
 <a href="https://github.com/dijodaiju7/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijodaiju7&hide=jupyter+notebook&layout=compact&theme=radical" />
-</a>
+</a></p>
 <br><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dijodaiju7&theme=nord" alt="dijodaiju7" /></a> </p>
