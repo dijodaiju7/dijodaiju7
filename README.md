@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dijodaiju" target="blank"><img src="https://img.shields.io/twitter/follow/dijodaiju?logo=twitter&style=for-the-badge" alt="dijodaiju" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://dijodaiju7.github.io/](https://dijodaiju7.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/dijodaiju7](https://github.com/dijodaiju7)
 
 - 📝 I regularly write articles on [https://dijodaiju.medium.com/](https://dijodaiju.medium.com/)
 
