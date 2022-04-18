@@ -18,6 +18,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps &amp; DecSecOps Roadmap [From beginner to an expert]](https://faun.pub/devops-decsecops-roadmap-from-beginner-to-an-expert-c3e4fca2b347?source=rss-9ae65cfff365------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
