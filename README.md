@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 <br><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dijodaiju7&theme=nord" alt="dijodaiju7" /></a> </p>
 <br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dijodaiju78&" alt="dijodaiju7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dijodaiju7" alt="dijodaiju7" /></p>
 
